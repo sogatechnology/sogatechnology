@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**sogatechnology/sogatechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Linux User
+- :coffee:  Java User
+- :mouse:  Golang User
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Open Source Project
+
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sogatechnology&theme=github" width="40%">
+
+  - 算法 [`soga-algorithm`](https://github.com/sogatechnology/soga-algorithm)
+  - Soga技术栈 [`incubator-soga`](https://github.com/sogatechnology/incubator-soga)
+
+
+## 📫 Get in touch and follow me:
+
+:wind_chime: 网站: [soga.tech](https://soga.tech/)
