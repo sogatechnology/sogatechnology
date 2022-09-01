@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sogatechnology&theme=github" width="60%">
+
 - 💻 Linux User
 - :coffee:  Java User
 - :mouse:  Golang User
