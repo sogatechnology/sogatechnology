@@ -15,4 +15,4 @@
 
 ## 📫 Get in touch and follow me:
 
-:wind_chime: 网站: [soga.tech](https://soga.tech/)
+:wind_chime: 网站: [https://soga.tech](https://soga.tech/)
