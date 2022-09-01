@@ -9,7 +9,7 @@
 
 ## 🌱 Open Source Project
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sogatechnology&theme=github" width="40%">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sogatechnology&theme=github" width="30%">
 
   - 算法 [`soga-algorithm`](https://github.com/sogatechnology/soga-algorithm)
   - Soga技术栈 [`incubator-soga`](https://github.com/sogatechnology/incubator-soga)
