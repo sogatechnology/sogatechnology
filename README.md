@@ -18,3 +18,9 @@
 ## 📫 Get in touch and follow me:
 
 :wind_chime: 网站: [https://soga.tech](https://soga.tech/)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sogatechnology/sogatechnology/master/profile-3d-contrib/profile-night-rainbow.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/sogatechnology/sogatechnology/master/profile-3d-contrib/profile-green.svg">
+</picture>
